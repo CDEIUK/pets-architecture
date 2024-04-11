@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T14:12:30.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yD08owFYXUwszvVj7o9h" version="24.0.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-11T15:39:39.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SExtzLiPVqIx3d64BmFI" version="24.0.5" type="github" pages="8">
   <diagram id="v6h1bPkLX19fFkxRdNGF" name="Parties">
     <mxGraphModel dx="1943" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oqJyK8QKKCartUhoFLqg" name="Flow A">
-    <mxGraphModel dx="1943" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="44tfh3fXNuqjr0U_n1Ii-7" value="Cancer Data Hub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;" parent="1" vertex="1">
           <mxGeometry x="566.96" y="180" width="60" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="44tfh3fXNuqjr0U_n1Ii-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Epidemiology Use Case Flow&lt;/h1&gt;&lt;div&gt;A permitted Researcher with access to NIH SEER database and a Jupyter&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Notebook wishes to calculate the p-value between a US rare cancer group and a UK rare cancer group.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="44tfh3fXNuqjr0U_n1Ii-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Differential Privacy Use Case Flow&lt;/h1&gt;&lt;div&gt;A permitted Researcher with access to NIH SEER database and a Jupyter&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Notebook wishes to calculate the p-value between a US rare cancer group and a UK rare cancer group.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="31" y="18" width="629" height="120" as="geometry" />
         </mxCell>
         <mxCell id="44tfh3fXNuqjr0U_n1Ii-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://jupyter.org/assets/homepage/main-logo.svg;" parent="1" vertex="1">
@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZlqXczAM35vqCDRemOTa" name="Flow B">
-    <mxGraphModel dx="1943" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
           <mxGeometry x="692" y="260" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NCQubVhfRcp23PMeIh-n-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Assumptions:&lt;/h1&gt;&lt;p&gt;1.&amp;nbsp; Tensor Flow Federated or Flower framework could both be used&amp;nbsp; as orchestrators of federated learning use case&lt;/p&gt;&lt;p&gt;2.&amp;nbsp; Each data provider would have to provide a local AI training model environment where code would be deployed&lt;/p&gt;&lt;p&gt;3.&amp;nbsp; Models are trained to work against local data so need to be deployed to local training envrionments&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px;&quot;&gt;4. Orchestration feeds back to the trusted researcher where FedAvg or other algorithm is applied across the models&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="840" width="630" height="200" as="geometry" />
+          <mxGeometry x="40" y="800" width="630" height="200" as="geometry" />
         </mxCell>
         <mxCell id="NCQubVhfRcp23PMeIh-n-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flower.ai/docs/framework/_static/flower-logo.png;" vertex="1" parent="1">
           <mxGeometry x="260" y="250" width="90" height="90" as="geometry" />
@@ -262,25 +262,25 @@
         <mxCell id="NCQubVhfRcp23PMeIh-n-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="428" y="322" as="sourcePoint" />
-            <mxPoint x="428" y="862" as="targetPoint" />
+            <mxPoint x="430" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NCQubVhfRcp23PMeIh-n-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="519.5" y="322" as="sourcePoint" />
-            <mxPoint x="519.5" y="862" as="targetPoint" />
+            <mxPoint x="520" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NCQubVhfRcp23PMeIh-n-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="643" y="320" as="sourcePoint" />
-            <mxPoint x="643" y="860" as="targetPoint" />
+            <mxPoint x="640" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NCQubVhfRcp23PMeIh-n-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="721.5" y="322" as="sourcePoint" />
-            <mxPoint x="721.5" y="862" as="targetPoint" />
+            <mxPoint x="720" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HiVGUdTdzPqPaQHGBZV3-1" value="Send Model" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
