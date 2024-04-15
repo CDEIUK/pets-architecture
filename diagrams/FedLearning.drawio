@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T11:58:28.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="a6S8CvOFA6REECecAx4A" version="24.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-04-15T12:02:52.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QQ1kXIMV8uzeR4qFSUFE" version="24.2.3" type="github" pages="11">
   <diagram id="v6h1bPkLX19fFkxRdNGF" name="Parties">
-    <mxGraphModel dx="1505" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="3qbAKWLWVuh1-l6patr6-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/255px-Flag_of_the_United_Kingdom.svg.png;" parent="1" vertex="1">
           <mxGeometry x="639.87" y="72.92" width="147.75" height="74.16" as="geometry" />
+        </mxCell>
+        <mxCell id="sqcVq7PKvCjpvTp5afR4-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Privacy Enhancing Technology Project Parties&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128.99" y="10" width="541.01" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sqcVq7PKvCjpvTp5afR4-2" value="England" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="228.99" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -210,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZlqXczAM35vqCDRemOTa" name="Flow B">
-    <mxGraphModel dx="1505" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -713,7 +719,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YIjBwNpbisGJcJaudA3G" name="Process Flows">
-    <mxGraphModel dx="1905" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
